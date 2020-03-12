@@ -8,6 +8,7 @@
 
 - [gts](https://github.com/google/gts)
 - [TypeScript 开发团队编码规范](https://zhongsp.gitbooks.io/typescript-handbook/doc/wiki/coding_guidelines.html)
+- [Do's and Don'ts](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html)
 
 可商量余地：
 
