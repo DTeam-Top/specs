@@ -25,3 +25,4 @@
 - indent-rainbow
 - Path Intellisense
 - Peacock
+- TabNine
